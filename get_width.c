@@ -34,4 +34,3 @@ for (curr_i = *i + 1; format[curr_i] != '\0'; curr_i++)
 
 return (width);
 }
-
